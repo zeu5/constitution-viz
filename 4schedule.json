@@ -1,0 +1,68 @@
+{
+    "heading": "Fourth Schedule",
+    "title": "Allocation of seats in the Council of States",
+    "related_articles": [
+        {"number": "4", "clause": "1"},
+        {"number": "80", "clause": "2"},
+        {"number": "391"}
+    ],
+    "contents": {
+        "table": {
+            "title": "Table of Seats",
+            "desc": "To each State or group of States specified in the first column of the table of seats appended to this Schedule there shall be allotted the number of seats specified in the second column of the said table opposite to that State of group of States, as the case may be",
+            "header": ["States", "Total Seats"],
+            "rows": [
+                ["Assam", 6],
+                ["Bihar", 21],
+                ["Bombay", 17],
+                ["Madhya Pradesh", 12],
+                ["Madras", 27],
+                ["Orissa", 9],
+                ["Punjab", 8],
+                ["The United Provinces", 31],
+                ["West Bengal", 14],
+                ["Hyderabad", 11],
+                ["Jammu and Kashmir", 4],
+                ["Madhya Bharat", 6],
+                ["Mysore", 6],
+                ["Patiala and East Punjab States Union", 3],
+                ["Rajasthan", 9],
+                ["Saurashtra", 4],
+                ["Travancore-Cochin", 6],
+                ["Vindhya Pradesh", 4],
+                [
+                    {
+                        "rows": [
+                            ["Ajmer"],
+                            ["Coorg"]
+                        ]
+                    },
+                    1
+                ],
+                ["Bhopal", 4],
+                [
+                    {
+                        "rows": [
+                            ["Bilaspur"],
+                            ["Himachal Pradesh"]
+                        ]
+                    },
+                    1
+                ],
+                ["Cooch-Behar",1],
+                ["Delhi",1],
+                ["Kutch",1],
+                [
+                    {
+                        "rows": [
+                            ["Manipur"],
+                            ["Tripura"]
+                        ]
+                    },
+                    1
+                ]
+            ]
+
+        }
+    }
+}
